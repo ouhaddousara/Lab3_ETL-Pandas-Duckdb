@@ -136,6 +136,5 @@ FROM merged_clean GROUP BY customer_id, name, country ORDER BY total_spent DESC 
 
 ## Author
 
-**Sara Ouhaddou**  
-Data Engineering Student  
+**Sara Ouhaddou**  - Data Engineering Student  
 [![GitHub](https://img.shields.io/badge/GitHub-ouhaddousara-black?logo=github)](https://github.com/ouhaddousara)
