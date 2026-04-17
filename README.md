@@ -15,6 +15,7 @@ The pipeline processes synthetic e-commerce data (orders + customers), applies a
 
 ## Project Structure
 
+```
 lab3/
 ├── data/
 │   ├── raw_orders.csv        # Generated raw orders data
@@ -26,7 +27,7 @@ lab3/
 ├── lab3_etl.py               # Main ETL script
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 
